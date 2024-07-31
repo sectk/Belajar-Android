@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string-array name="pilihan"></string-array>
+        <item>Celcius To Reamur</item>
+</resources>
